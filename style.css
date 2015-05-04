@@ -1,0 +1,36 @@
+/*
+ Theme Name:   Resonar Child
+ Theme URI:    http://example.com/resonar-child/
+ Description:  Resonar Child Theme
+ Author:       Haleigh Crossman
+ Author URI:   http://example.com
+ Template:     resonar-wpcom
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  resonar-child
+*/
+
+@import url("../resonar-wpcom/style.css");
+
+body {
+	background-color: #8499B1;
+    color: #0D0C1D;
+}
+
+sidebar-inner {
+    background-color: #8499B1;
+    color: #0D0C1D;
+}
+
+a.more-link {
+    color: #5BFF63;
+}
+
+a {
+    color: #5BFF63;
+}
+p {
+    color: #0D0C1D;
+}
